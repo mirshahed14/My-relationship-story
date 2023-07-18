@@ -12,7 +12,12 @@ h1{
 p{
     font-family: 'Courier New', Courier, monospace
 }
-.ss{
+#ss{
     width: 30%;
+}
+img{
+    width: 35%;
+    border: 2 px solid red;
+    border-radius: 20%;
 }
 
