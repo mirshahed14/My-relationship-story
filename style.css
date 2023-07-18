@@ -1,3 +1,18 @@
 body{
-    background-color: black;
+    background-color: red;
 }
+#pic{
+    width: 20%;
+    border: 2px solid red;
+    border-radius: 70%;
+}
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p{
+    font-family: 'Courier New', Courier, monospace
+}
+.ss{
+    width: 30%;
+}
+
