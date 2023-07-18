@@ -3,7 +3,7 @@ body{
 }
 #pic{
     width: 20%;
-    border: 2px solid red;
+    border: 2px solid black;
     border-radius: 70%;
 }
 h1{
@@ -17,7 +17,11 @@ p{
 }
 img{
     width: 35%;
-    border: 2 px solid red;
+    border: 2px solid black;
     border-radius: 20%;
+}
+h3{
+    border: 5px solid black;
+    width: 50%;
 }
 
