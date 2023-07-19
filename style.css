@@ -23,8 +23,12 @@ img{
 h3{
     border: 5px solid black;
     width: 50%;
+    text-align: center;
 }
 .trap{
     width: 20%;
+}
+h1{
+    text-align: center;
 }
 
